@@ -5,7 +5,7 @@
 
 I'm a Computer Science Enthusiast  👨‍💻.
  
-- 👯 I’m looking to collaborate on Cpp projects and  Web Dev stuff
+- 👯 I’m looking to collaborate on Java and system design stuff.
 - 🤔 I’m looking for help in learning about DSA and JavaScript.
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omjimaurya09@gamil.com)](mailto:omjimaurayo09@gmail.com)
