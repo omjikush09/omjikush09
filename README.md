@@ -4,7 +4,7 @@
 
 ### Backend Developer | Go & TypeScript | Scalable Systems
 
-I build backend systems, developer-focused tools, and practical web products with Go and TypeScript.
+I build backend systems, developer-focused tools, and practical web products with Go, TypeScript, and AWS.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-omjikushwaha.in-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://omjikushwaha.in/)
 [![GitHub](https://img.shields.io/badge/GitHub-omjikush09-181717?style=for-the-badge&logo=github)](https://github.com/omjikush09)
@@ -20,9 +20,9 @@ I build backend systems, developer-focused tools, and practical web products wit
 ## About Me
 
 - Backend-focused developer working on scalable systems, clean API design, and product engineering.
-- Currently building more with Go and TypeScript.
+- Currently building more with Go, TypeScript, and AWS.
 - Interested in distributed systems, real-time communication, deployment platforms, and system design.
-- Open to collaborating on backend engineering, Go, TypeScript, and system design projects.
+- Open to collaborating on backend engineering, Go, TypeScript, AWS, and system design projects.
 - I like learning by building, breaking things, and improving them one commit at a time.
 
 ## Tech I Work With
@@ -33,6 +33,7 @@ I build backend systems, developer-focused tools, and practical web products wit
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -42,7 +43,7 @@ I build backend systems, developer-focused tools, and practical web products wit
 
 ### [Glycinate](https://github.com/omjikush09/Glycinate)
 
-TypeScript, React, Docker, infrastructure, lambdas
+TypeScript, React, AWS, Docker, infrastructure, lambdas
 
 A deployment platform for React apps. The repo is structured as a monorepo with a web app, infrastructure code, lambda services, and shared packages.
 
@@ -64,7 +65,8 @@ A real-time media streaming project using mediasoup concepts.
 
 - Building backend systems with Go and TypeScript.
 - Designing cleaner APIs and service architecture.
-- Exploring real-time communication and deployment infrastructure.
+- Working with AWS, deployment infrastructure, and developer tooling.
+- Exploring real-time communication and distributed systems.
 - Improving products through practical, project-driven engineering.
 
 ## GitHub Stats
